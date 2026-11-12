@@ -1,7 +1,7 @@
 # lw-panel-design-templates
 [Loudest Warning](http://www.loudestwarning.co.uk/) format layout and design templates
 
-This repo contains both Affinity files and PDFs for a variety of Loudest Format panel sizes: 1" NPW (nominal panel width), 2" NPW, 3" NPW, and 4" NPW.
+This repo contains both [Affinity](https://www.affinity.studio/) files and PDFs for a variety of Loudest Format panel sizes: 1" NPW (nominal panel width), 2" NPW, 3" NPW, and 4" NPW.
 
 Each size contains 6-row and 8-row layouts as well as split layouts in case you want to place parts diagonally.
 
