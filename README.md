@@ -1,7 +1,7 @@
 # lw-panel-design-templates
 [Loudest Warning](http://www.loudestwarning.co.uk/) format layout and design templates
 
-This repo contains both Affinity files and PDFs for a variety of Loudest Format panel sizes: 1" NPW, 2" NPW, 3" NPW, and 4" NPW.
+This repo contains both Affinity files and PDFs for a variety of Loudest Format panel sizes: 1" NPW (nominal panel width), 2" NPW, 3" NPW, and 4" NPW.
 
 Each size contains 6-row and 8-row layouts as well as split layouts in case you want to place parts diagonally.
 
@@ -15,9 +15,11 @@ When you put panel components on the first or last horizontal line of the guide/
 
 ### Note about these files
 
-Several of the Affinity files have only margins and column guides.
+Files in `/affinity/margin+guide templates` have only margins and column guides, and therefore are at full NPW. 
 
-The grid PDFs, I imagine, could be imported into your design software of choice.
+The files in `/affinity/vector grids (doepfer tolerance)` on the other hand are set up to be just a tiny bit narrower to match Doepfer tolerance specified in one of the links above. Those files have selectable layers for different row configrations.
+
+The PDFs in `/PDF vector grids (doepfer tolerance)` can imported into your design software of choice. 
 
 At some point I'd love to make some FPD templates for FrontDesign. We'll see if I do!
 
