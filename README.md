@@ -15,7 +15,7 @@ When you put panel components on the first or last horizontal line of the guide/
 
 ### Note about these files
 
-All templates have 3.2mm round mounting holes at the top and bottom placed 3mm from the edge and at `NPW - 1"` per the LW spec.
+All files display 3.2mm round mounting holes at the top and bottom placed 3mm from the edge and at `NPW - 1"` per the LW spec.
 
 Files in `/affinity/margin+guide templates` have only margins and column/row guides, and therefore are at full NPW to maintain the correct the column spacing. 
 
