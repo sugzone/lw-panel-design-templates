@@ -5,7 +5,7 @@ This repo contains both Affinity files and PDFs for a variety of Loudest Format 
 
 Each size contains 6-row and 8-row layouts as well as split layouts in case you want to place parts diagonally.
 
-I'm also included files with assets for commonly used panel-mount objects, measured for their mounting holes.
+There are also files with assets for commonly used panel-mount objects, sized for their mounting holes.
 
 ### Loudest Warning format
 
