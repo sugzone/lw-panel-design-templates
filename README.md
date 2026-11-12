@@ -13,7 +13,7 @@ Resources used for specs: [this](http://www.loudestwarning.co.uk/portfolio/4u-mo
 
 I set all of these templates up so part placement starts 7/8" from the top and bottom edges of the panel. Really that's 7/8" minus 1mm to conform with the LW spec of 175mm top to bottom.
 
-### ### Note about these files
+### Note about these files
 
 Several of the Affinity files have only margins and column guides.
 
