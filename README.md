@@ -1,7 +1,7 @@
 # lw-panel-design-templates
-[Loudest Warning](http://www.loudestwarning.co.uk/) format layout and design templates
+Layout and design templates for [Loudest Warning](http://www.loudestwarning.co.uk/) format 4U synth modules.
 
-This repo contains both [Affinity](https://www.affinity.studio/) files and PDFs for a variety of Loudest Warning format panel sizes: 1" NMW (nominal module width), 2" NMW, 3" NMW, and 4" NMW.
+This repo contains [Affinity](https://www.affinity.studio/) files and PDFs for a variety of Loudest Warning format panel sizes: 1" NMW (nominal module width), 2" NMW, 3" NMW, and 4" NMW.
 
 The folder for each width variant contains 6-row and 8-row layouts as well as split layouts in case you want to place parts diagonally.
 
@@ -13,7 +13,9 @@ Resources used for specs: [Loudest Warning 4U specs page](http://www.loudestwarn
 
 All files display 3.2mm round mounting holes at the top and bottom placed 3mm from the edge, spaced at `NMW - 1"` per the LW spec.
 
-The top and bottom edges of these grids/guides sit 7/8" from the top and bottom edges of the front panel respectively. Really that's 7/8" minus 1.4mm to conform with the LW spec of 175mm front panel height. That placement is compatible with 5.25" long PCBs.
+The top and bottom edges of these grids/guides sit 7/8" from the top and bottom edges of the front panel respectively. Really that's 7/8" minus 1.4mm to conform with the LW spec of 175mm front panel height. 
+
+Note that for 6-row layouts, this is a sligthly different approach than what's depicted in the second diagram below, where the 6 rows are spaced evenly 1" apart, starting 1" in from the top and the bottom. Whichever approach you prefer, the layout will be compatible with 5.25" long PCBs.
 
 ![diagram about NMW and panel height](http://www.loudestwarning.co.uk/wp-content/uploads/2015/02/LW-FORMAT-SPECS-V2-2000.png)
 
