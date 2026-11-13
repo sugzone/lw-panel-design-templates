@@ -15,7 +15,7 @@ All files display 3.2mm round mounting holes at the top and bottom placed 3mm fr
 
 ![diagram about NMW and panel height](http://www.loudestwarning.co.uk/wp-content/uploads/2015/02/LW-FORMAT-SPECS-V2-2000.png)
 
-The top and bottom edges of these grids/guides sit 7/8" from the top and bottom edges of the front panel respectively. Really that's 7/8" minus 1.4mm to conform with the LW spec of 175mm front panel height. That spacing is compatible with 5.25"-long PCBs.
+The top and bottom edges of my grids/guides sit 7/8" from the top and bottom edges of the front panel respectively. Really that's 7/8" minus 1.4mm to conform with the LW spec of 175mm front panel height. That spacing is compatible with 5.25"-long PCBs.
 
 Note that for 6-row layouts, mine is a sligthly different approach than what's depicted in the diagram below, where the 6 rows are spaced evenly 1" apart, starting 1" in from the top and the bottom. For my tastes, the 6-row layout leaves a lot of unused room, and in general I'm much more likely to use a 6-row split layout, in which case extra 1/8" at the top and bottom gives just a tad more breathing room between diagonally placed parts. But hey, whatever rocks your boat.
 
