@@ -19,8 +19,6 @@ The top and bottom edges of these grids/guides sit 7/8" from the top and bottom 
 
 Note that for 6-row layouts, mine is a sligthly different approach than what's depicted in the diagram below, where the 6 rows are spaced evenly 1" apart, starting 1" in from the top and the bottom. For my tastes, the 6-row layout leaves a lot of unused room, and in general I'm much more likely to use a 6-row split layout, in which case extra 1/8" at the top and bottom gives just a tad more breathing room between diagonally placed parts. But hey, whatever rocks your boat.
 
-
-
 ![diagram specifying row spacing and Doepfer tolerance](https://farm3.staticflickr.com/2896/13942823989_99f66fc943_b.jpg)
 
 ### Note about these files
