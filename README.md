@@ -23,7 +23,7 @@ Note that for 6-row layouts, mine is a sligthly different approach than what's d
 
 ### Note about these files
 
-Files in `/affinity/margin+guide templates` have only margins and column/row guides, and therefore are set at full NMW to maintain the correctly precise column spacing.
+Files in `/affinity/margin+guide templates` have only margins and column/row guides, and therefore are set at full NMW to maintain needlessly precise column spacing.
 
 The files in `/affinity/vector grids (doepfer tolerance)` on the other hand are set up to be just a tiny bit narrower to match Doepfer tolerance specified in one of the links above. Those files have selectable layers for different row configrations.
 
