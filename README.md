@@ -1,7 +1,7 @@
 # lw-panel-design-templates
 Layout and design templates for [Loudest Warning](http://www.loudestwarning.co.uk/) format 4U synth modules.
 
-This repo contains [Affinity](https://www.affinity.studio/) files and PDFs for a variety of Loudest Warning format panel sizes: 1" NMW (nominal module width), 2" NMW, 3" NMW, and 4" NMW.
+This repo contains [Affinity Studio](https://www.affinity.studio/) files and PDFs for a variety of Loudest Warning format panel sizes: 1" NMW (nominal module width), 2" NMW, 3" NMW, and 4" NMW.
 
 The folder for each width variant contains 6-row and 8-row layouts as well as split layouts in case you want to place parts diagonally.
 
